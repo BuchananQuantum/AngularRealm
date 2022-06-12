@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  APP_ID: '<add-app-id>',
-  GRAPHQL_URI: '<add-graphql-uri>',
-  API_KEY: '<add-api-key>',
+  APP_ID: 'uber-apollo-vgzrt',
+  GRAPHQL_URI: 'https://us-east-1.aws.realm.mongodb.com/api/client/v2.0/app/uber-apollo-vgzrt/graphql',
+  API_KEY: 'vN1W4CPQqVdKVo6q8Dd2vScJiPq7MYvidhJb28TZ5v4Lw4qzqXOTlUddMU0uQNuQ',
 };
